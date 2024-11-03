@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Michel
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning MLL
+-    I’m looking for opportunities to succeed, learn from experts, and collaborate with high-performance people 
+- 📫 How to reach me dikimalabbsforcoding@gmail.com
+- As a brilliant person, I can provide partners with high-quality work (Back-End development and APIs) 
